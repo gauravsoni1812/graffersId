@@ -7,3 +7,10 @@ function add(){
 
 const b  = add()
 console.log(b)
+
+
+function newFeatureAddB(){
+    console.log("Hello this is me garav =")
+}
+
+newFeatureAddB()
